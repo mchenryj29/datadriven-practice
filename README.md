@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/deep_cloud_2352), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-10-25 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-24 |
 
 <!-- datadriven:index:end -->
