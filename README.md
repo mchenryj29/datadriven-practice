@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/deep_cloud_2352), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-11-16 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-11-06 |
 | [Peak Satisfaction](./practice/sql/peak-satisfaction) | SQL | Easy | 2026-10-31 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-10-25 |
